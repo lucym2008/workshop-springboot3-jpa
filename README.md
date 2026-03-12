@@ -45,4 +45,4 @@ A API gerencia usuários, pedidos, produtos, categorias e pagamentos, com todas 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[SEU_USUARIO]/[NOME_DO_SEU_REPOSITORIO].git
+    git clone https://github.com/lucym2008/workshop-springboot3-jpa.git 
